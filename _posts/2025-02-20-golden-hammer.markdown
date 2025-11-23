@@ -4,7 +4,7 @@ title: "Golden Hammer in Software Engineering"
 author: "Saeed Shahsavan"
 date: 2025-02-20
 description: "A real-world exploration of the Golden Hammer anti-pattern in software projects, with lessons from practical enterprise experience."
----
+tags: [Team Working, Software Engineering , Software Architecture, Programming]
 ---
 
 ## Introduction

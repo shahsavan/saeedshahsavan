@@ -4,7 +4,7 @@ title: "Technical Dictatorship in Software Teams: Balancing Leadership and Colla
 author: "Saeed Shahsavan"
 date: 2025-02-06
 description: "An experience-based article exploring the effects, risks, and prevention strategies around technical dictatorship in software teams."
----
+tags: [Team Working, Software Engineering , Software Architecture, Programming]
 ---
 
 ## Introduction
