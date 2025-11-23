@@ -5,8 +5,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Software Architect specializing in distributed systems, search engines,
   event-driven platforms, and high-performance backend engineering with Go and Java.
   Designing scalable enterprise systems with clarity and technical rigor.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://shahsavan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/saeedshahsavan" # the subpath of your site, e.g. /blog
 twitter_username: Saeed_Shahsavan
 github_username:  shahsavan
 linkedin_username: saeed-shahsavan
