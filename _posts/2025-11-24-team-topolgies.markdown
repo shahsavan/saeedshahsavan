@@ -12,8 +12,6 @@ tags: [Team Working, Software Engineering, Software Architecture, Enterprise Sys
 In enterprise systems, software never exists in isolation. The structure of the teams building a system inevitably shapes the system itself. This idea is central to **Team Topologies**, and it becomes clearer the more experience you gain in large organizations:  
 **products mirror the organizations that create them.**
 
----
-
 ## Why Team Structure Matters
 
 Large organizations often depend on many interacting services—and changes in one team can immediately affect many others. Even a small update may require other teams to adjust their APIs, workflows, or deployment timelines.
@@ -21,8 +19,6 @@ Large organizations often depend on many interacting services—and changes in o
 When a dependent service fails, your own system becomes unstable. And when another team changes something unexpectedly, you may suddenly be forced to update your system under pressure. In these moments, blaming other teams does nothing; **engineering discipline** is what protects you.
 
 Patterns like **Feature Toggles**, **Circuit Breakers**, and **Graceful Degradation** exist precisely because teams rarely move at the same speed and systems rarely behave perfectly.
-
----
 
 ## A Real-World Example
 
@@ -34,8 +30,6 @@ Our first question afterward was clear:
 **Wouldn’t a circuit breaker have prevented all of this?**
 
 This is the essence of engineering in enterprise environments: designing for uncertainty rather than assuming ideal conditions.
-
----
 
 ## Conclusion
 
