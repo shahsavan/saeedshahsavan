@@ -11,7 +11,6 @@ After nearly two decades of designing and building enterprise projects including
 
 In this post, I want to share the core ideas that form the backbone of my upcoming book, **_Building Enterprise Projects with Go_**, and the architectural mindset behind reliable large-scale systems.
 
----
 
 ## 1. Architecture Is About Boundaries, Not Complexity
 
@@ -30,7 +29,6 @@ allow teams to evolve parts of the system without breaking others.
 Whether you use Go, Java, or Rust, the principle is the same:
 **Separate what the business cares about from what the platform cares about.**
 
----
 
 ## 2. Distributed Systems Fail—Design for It
 
@@ -46,7 +44,6 @@ Real distributed systems must treat failure as a normal event:
 
 A system that “usually works” is not an enterprise system.
 
----
 
 ## 3. Event-Driven Architectures Scale Better Than Request-Driven Ones
 
@@ -63,7 +60,6 @@ CQRS and Event Sourcing—when applied properly—enable:
 But these patterns require careful modeling:  
 **Events must describe business facts, not database operations.**
 
----
 
 ## 4. Search Is Not a Feature—It’s an Architecture
 
@@ -80,7 +76,6 @@ but only if the system is architected around:
 
 Search is an essential part of modern systems, not an afterthought.
 
----
 
 ## 5. Go Enables Clean Architecture—If You Use It Right
 
@@ -98,7 +93,6 @@ Enterprise Go requires attention to:
 The language gives you the tools;  
 architecture determines how responsibly you use them.
 
----
 
 ## Final Thoughts
 
@@ -107,6 +101,5 @@ It is about **clarity**, **boundaries**, and **designing systems that handle rea
 
 If you are building cloud-native systems, large-scale search platforms, or distributed architectures, I hope the insights in this post guide you toward building systems that last, grow, and remain understandable.
 
-More deep dives on these topics are coming soon as I continue writing **Building Enterprise Projects with Go**.
-
-Stay tuned.
+If you enjoy reading topics like this and want to dive deeper into real enterprise lessons,
+**read my upcoming book: *Building Enterprise Projects with Go*.**
