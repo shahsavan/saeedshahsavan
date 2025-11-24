@@ -13,7 +13,6 @@ The Golden Hammer is a cognitive bias where a tool or technology is used excessi
 
 Simply put, **when someone is very skilled with a hammer, they see everything as a nail!**
 
----
 
 ## Examples of Golden Hammer in Software Projects
 
@@ -35,7 +34,6 @@ A friend of mine shared a similar experience: using **Apache Kafka as a database
 
 Kafka is a powerful tool for *event-driven data streams*, but forcing it into roles it was not designed for only increases complexity and reduces performance.
 
----
 
 ## How to Avoid the Golden Hammer
 
@@ -43,8 +41,11 @@ Kafka is a powerful tool for *event-driven data streams*, but forcing it into ro
 - **Flexibility in Decision-Making:** Instead of insisting on one tool, select the most suitable solution.  
 - **Consultation and Continuous Learning:** Learn from others' experiences and familiarize yourself with new approaches.  
 
----
 
 ## Conclusion
 
 The Golden Hammer can lead to increased complexity and decreased quality in software projects. By making informed decisions about tools and methods, we can avoid this pitfall and make software development more efficient and effective.
+
+
+If you enjoy reading topics like this and want to dive deeper into real enterprise lessons,
+**read my upcoming book: *Building Enterprise Projects with Go*.**
