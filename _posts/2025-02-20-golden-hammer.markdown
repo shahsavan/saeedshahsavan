@@ -48,4 +48,4 @@ The Golden Hammer can lead to increased complexity and decreased quality in soft
 
 
 If you enjoy reading topics like this and want to dive deeper into real enterprise lessons,
-**read my upcoming book:  [*Building Enterprise Projects with Go*](https://a.co/d/04mitMr).**
+**read my upcoming book:  [*Building Enterprise Projects with Go*](https://link.springer.com/book/9798868823695).**

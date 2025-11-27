@@ -102,4 +102,4 @@ It is about **clarity**, **boundaries**, and **designing systems that handle rea
 If you are building cloud-native systems, large-scale search platforms, or distributed architectures, I hope the insights in this post guide you toward building systems that last, grow, and remain understandable.
 
 If you enjoy reading topics like this and want to dive deeper into real enterprise lessons,
-**read my upcoming book:  [*Building Enterprise Projects with Go*](https://a.co/d/04mitMr).**
+**read my upcoming book:  [*Building Enterprise Projects with Go*](https://link.springer.com/book/9798868823695).**
