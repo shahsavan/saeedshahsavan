@@ -95,4 +95,4 @@ Technical dictatorship may seem to improve development speed in the short term, 
 A successful team is one where members feel their ideas are heard and play a role in decision-making. Therefore, managers and senior developers should focus on fostering an environment of learning, collaboration, and innovation rather than creating a rigid structure that stifles growth.
 
 If you enjoy reading topics like this and want to dive deeper into real enterprise lessons,
-**read my upcoming book: *Building Enterprise Projects with Go*.**
+**read my upcoming book:  [*Building Enterprise Projects with Go*](https://a.co/d/04mitMr).**

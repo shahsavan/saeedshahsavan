@@ -36,4 +36,4 @@ This is the essence of engineering in enterprise environments: designing for unc
 Team structure, service dependencies, and organizational dynamics directly influence the reliability of your system. By anticipating these realities—rather than resisting them—you build software that remains stable even when everything around it changes.
 
 If you enjoy examples like this and want to dive deeper into real enterprise lessons,  
-**read my upcoming book: *Building Enterprise Projects with Go*.**
+**read my upcoming book:  [*Building Enterprise Projects with Go*](https://a.co/d/04mitMr).**
